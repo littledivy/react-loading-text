@@ -1,6 +1,6 @@
 {
   "name": "@divy-work/react-loading-text",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Text based loading for your react apps.",
   "main": "build/index.js",
   "module": "build/index.es.js",
