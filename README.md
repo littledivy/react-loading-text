@@ -9,7 +9,7 @@ A simple module to display all types of weird sentences while your application l
 ## Installation
 
 ```sh
-$ npm i react-loading-text
+$ npm i @divy-work/react-loading-text
 ```
 
 ## Usage
