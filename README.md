@@ -4,6 +4,8 @@
 
 A simple module to display all types of weird sentences while your application loads.
 
+![React CI](https://github.com/divy-work/react-loading-text/workflows/React%20CI/badge.svg)
+
 ## Installation
 
 ```sh
