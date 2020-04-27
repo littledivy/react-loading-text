@@ -16,7 +16,7 @@ $ npm i @divy-work/react-loading-text
 
 ```js
 import React from 'react';
-import LoadingText from 'react-loading-text';
+import LoadingText from '@divy-work/react-loading-text';
 
 class LoadingView extends React.Component {
 	render() {
